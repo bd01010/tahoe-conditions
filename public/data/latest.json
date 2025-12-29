@@ -1,0 +1,425 @@
+{
+  "generated_at_utc": "2025-12-29T16:51:57.116528+00:00",
+  "resorts": [
+    {
+      "slug": "diamond-peak",
+      "name": "Diamond Peak",
+      "fetched_at_utc": "2025-12-29T16:50:50.429687Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.diamondpeak.com/mountain/conditions",
+        "weather_points_url": "https://api.weather.gov/points/39.2533,-119.9283",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/39,95/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 6,
+        "lifts_scheduled": null,
+        "lifts_total": 7,
+        "trails_open": 42,
+        "trails_scheduled": null,
+        "trails_total": 42
+      },
+      "snow": {
+        "new_snow_24h_in": 0.0,
+        "new_snow_48h_in": 34.0,
+        "base_depth_in": 24.0,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 14.0,
+        "wind_mph": 5.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Mostly Clear",
+        "forecast_period_name": "Overnight"
+      }
+    },
+    {
+      "slug": "mt-rose",
+      "name": "Mt Rose Ski Tahoe",
+      "fetched_at_utc": "2025-12-29T16:50:52.758472Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://skirose.com/the-mountain/snow-report/",
+        "weather_points_url": "https://api.weather.gov/points/39.3149,-119.8803",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/41,97/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 7,
+        "lifts_scheduled": null,
+        "lifts_total": 7,
+        "trails_open": null,
+        "trails_scheduled": null,
+        "trails_total": null
+      },
+      "snow": {
+        "new_snow_24h_in": null,
+        "new_snow_48h_in": 43.0,
+        "base_depth_in": 107.0,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 11.0,
+        "wind_mph": 20.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Mostly Clear",
+        "forecast_period_name": "Overnight"
+      }
+    },
+    {
+      "slug": "sierra-at-tahoe",
+      "name": "Sierra-at-Tahoe",
+      "fetched_at_utc": "2025-12-29T16:50:56.652306Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://sierraattahoe.com/weather-snow-report/",
+        "weather_points_url": "https://api.weather.gov/points/38.7994,-120.08",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/STO/92,69/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 10,
+        "lifts_scheduled": null,
+        "lifts_total": 14,
+        "trails_open": 10,
+        "trails_scheduled": null,
+        "trails_total": 14
+      },
+      "snow": {
+        "new_snow_24h_in": 0.0,
+        "new_snow_48h_in": null,
+        "base_depth_in": null,
+        "season_total_in": 87.0,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 18.0,
+        "wind_mph": 5.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Mostly Clear",
+        "forecast_period_name": "Overnight"
+      }
+    },
+    {
+      "slug": "sugar-bowl",
+      "name": "Sugar Bowl",
+      "fetched_at_utc": "2025-12-29T16:51:01.170657Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.sugarbowl.com/conditions",
+        "weather_points_url": "https://api.weather.gov/points/39.3047,-120.3342",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/STO/87,93/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 2,
+        "lifts_scheduled": null,
+        "lifts_total": 11,
+        "trails_open": 93,
+        "trails_scheduled": null,
+        "trails_total": 105
+      },
+      "snow": {
+        "new_snow_24h_in": 0.0,
+        "new_snow_48h_in": null,
+        "base_depth_in": 45.0,
+        "season_total_in": 99.0,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 15.0,
+        "wind_mph": 10.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Mostly Clear",
+        "forecast_period_name": "Overnight"
+      }
+    },
+    {
+      "slug": "heavenly",
+      "name": "Heavenly Mountain Resort",
+      "fetched_at_utc": "2025-12-29T16:51:06.097178Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
+        "weather_points_url": "https://api.weather.gov/points/38.9353,-119.94",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/36,81/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 0,
+        "lifts_scheduled": 15,
+        "lifts_total": 27,
+        "trails_open": 67,
+        "trails_scheduled": 0,
+        "trails_total": 113
+      },
+      "snow": {
+        "new_snow_24h_in": null,
+        "new_snow_48h_in": null,
+        "base_depth_in": null,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 18.0,
+        "wind_mph": 0.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Mostly Clear",
+        "forecast_period_name": "Overnight"
+      }
+    },
+    {
+      "slug": "northstar",
+      "name": "Northstar California",
+      "fetched_at_utc": "2025-12-29T16:51:08.991038Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
+        "weather_points_url": "https://api.weather.gov/points/39.2746,-120.121",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/32,97/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 4,
+        "lifts_scheduled": 11,
+        "lifts_total": 19,
+        "trails_open": 46,
+        "trails_scheduled": 0,
+        "trails_total": 107
+      },
+      "snow": {
+        "new_snow_24h_in": null,
+        "new_snow_48h_in": null,
+        "base_depth_in": null,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 16.0,
+        "wind_mph": 5.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Mostly Clear",
+        "forecast_period_name": "Overnight"
+      }
+    },
+    {
+      "slug": "kirkwood",
+      "name": "Kirkwood Mountain Resort",
+      "fetched_at_utc": "2025-12-29T16:51:13.136877Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
+        "weather_points_url": "https://api.weather.gov/points/38.685,-120.0653",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/STO/91,63/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 0,
+        "lifts_scheduled": 10,
+        "lifts_total": 13,
+        "trails_open": 61,
+        "trails_scheduled": 0,
+        "trails_total": 110
+      },
+      "snow": {
+        "new_snow_24h_in": null,
+        "new_snow_48h_in": null,
+        "base_depth_in": null,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 18.0,
+        "wind_mph": 16.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Mostly Clear",
+        "forecast_period_name": "Overnight"
+      }
+    },
+    {
+      "slug": "palisades-tahoe",
+      "name": "Palisades Tahoe",
+      "fetched_at_utc": "2025-12-29T16:51:16.176448Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
+        "weather_points_url": "https://api.weather.gov/points/39.1969,-120.2358",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/28,94/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 26,
+        "lifts_scheduled": null,
+        "lifts_total": 39,
+        "trails_open": 100,
+        "trails_scheduled": null,
+        "trails_total": 296
+      },
+      "snow": {
+        "new_snow_24h_in": 0.0,
+        "new_snow_48h_in": null,
+        "base_depth_in": 102.0,
+        "season_total_in": 102.0,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 39.0,
+        "wind_mph": 10.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Sunny",
+        "forecast_period_name": "Today"
+      }
+    },
+    {
+      "slug": "boreal",
+      "name": "Boreal Mountain Resort",
+      "fetched_at_utc": "2025-12-29T16:51:28.961788Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
+        "weather_points_url": "https://api.weather.gov/points/39.3322,-120.3483",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/STO/87,94/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 10,
+        "lifts_scheduled": null,
+        "lifts_total": 43,
+        "trails_open": null,
+        "trails_scheduled": null,
+        "trails_total": null
+      },
+      "snow": {
+        "new_snow_24h_in": 18.0,
+        "new_snow_48h_in": null,
+        "base_depth_in": null,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 38.0,
+        "wind_mph": 9.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Sunny",
+        "forecast_period_name": "Today"
+      }
+    },
+    {
+      "slug": "soda-springs",
+      "name": "Soda Springs",
+      "fetched_at_utc": "2025-12-29T16:51:38.369550Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.skisodasprings.com/conditions/",
+        "weather_points_url": "https://api.weather.gov/points/39.3194,-120.3789",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/STO/86,94/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 4,
+        "lifts_scheduled": null,
+        "lifts_total": 18,
+        "trails_open": null,
+        "trails_scheduled": null,
+        "trails_total": null
+      },
+      "snow": {
+        "new_snow_24h_in": 0.0,
+        "new_snow_48h_in": null,
+        "base_depth_in": null,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 40.0,
+        "wind_mph": 10.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Sunny",
+        "forecast_period_name": "Today"
+      }
+    },
+    {
+      "slug": "tahoe-donner",
+      "name": "Tahoe Donner",
+      "fetched_at_utc": "2025-12-29T16:51:45.118938Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
+        "weather_points_url": "https://api.weather.gov/points/39.3517,-120.2394",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/29,101/forecast"
+      },
+      "ops": {
+        "open_flag": false,
+        "lifts_open": 0,
+        "lifts_scheduled": null,
+        "lifts_total": 3,
+        "trails_open": 0,
+        "trails_scheduled": null,
+        "trails_total": 1
+      },
+      "snow": {
+        "new_snow_24h_in": null,
+        "new_snow_48h_in": null,
+        "base_depth_in": null,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 38.0,
+        "wind_mph": 5.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Sunny",
+        "forecast_period_name": "Today"
+      }
+    },
+    {
+      "slug": "homewood",
+      "name": "Homewood Mountain Resort",
+      "fetched_at_utc": "2025-12-29T16:51:52.602764Z",
+      "stale": false,
+      "sources": {
+        "ops_url": "https://skihomewood.com/snowreport/",
+        "weather_points_url": "https://api.weather.gov/points/39.0833,-120.1603",
+        "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/29,89/forecast"
+      },
+      "ops": {
+        "open_flag": true,
+        "lifts_open": 4,
+        "lifts_scheduled": null,
+        "lifts_total": 7,
+        "trails_open": 26,
+        "trails_scheduled": null,
+        "trails_total": 67
+      },
+      "snow": {
+        "new_snow_24h_in": null,
+        "new_snow_48h_in": null,
+        "base_depth_in": 0.0,
+        "season_total_in": null,
+        "surface": null,
+        "report_updated_at": null
+      },
+      "weather": {
+        "temp_f": 36.0,
+        "wind_mph": 10.0,
+        "wind_gust_mph": null,
+        "short_forecast": "Sunny",
+        "forecast_period_name": "Today"
+      }
+    }
+  ]
+}

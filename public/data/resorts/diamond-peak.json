@@ -1,0 +1,35 @@
+{
+  "slug": "diamond-peak",
+  "name": "Diamond Peak",
+  "fetched_at_utc": "2025-12-29T16:50:50.429687Z",
+  "stale": false,
+  "sources": {
+    "ops_url": "https://www.diamondpeak.com/mountain/conditions",
+    "weather_points_url": "https://api.weather.gov/points/39.2533,-119.9283",
+    "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/39,95/forecast"
+  },
+  "ops": {
+    "open_flag": true,
+    "lifts_open": 6,
+    "lifts_scheduled": null,
+    "lifts_total": 7,
+    "trails_open": 42,
+    "trails_scheduled": null,
+    "trails_total": 42
+  },
+  "snow": {
+    "new_snow_24h_in": 0.0,
+    "new_snow_48h_in": 34.0,
+    "base_depth_in": 24.0,
+    "season_total_in": null,
+    "surface": null,
+    "report_updated_at": null
+  },
+  "weather": {
+    "temp_f": 14.0,
+    "wind_mph": 5.0,
+    "wind_gust_mph": null,
+    "short_forecast": "Mostly Clear",
+    "forecast_period_name": "Overnight"
+  }
+}

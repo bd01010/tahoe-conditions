@@ -1,0 +1,142 @@
+# Lake Tahoe Ski Resort Registry
+# ==============================
+#
+# Each resort needs:
+#   slug: unique identifier (lowercase, hyphens)
+#   name: display name
+#   kind: adapter type (see adapters/registry.py)
+#   source_url: conditions page URL
+#   lat, lon: coordinates for NWS weather
+#   enabled: true/false
+#   note: optional notes about parsing requirements
+#
+# Adapter types:
+#   - generic: basic HTML pattern matching
+#   - diamond_peak: Diamond Peak specific parser
+#   - mt_rose: Mt Rose specific parser
+#   - sierra_at_tahoe: Sierra-at-Tahoe specific parser
+#   - sugar_bowl: Sugar Bowl specific parser
+#   - vail_resorts: Vail/EpicMix sites (Heavenly, Northstar, Kirkwood)
+#   - placeholder_headless: requires JavaScript rendering
+
+resorts:
+  # ===== ENABLED - Confirmed parseable =====
+
+  - slug: diamond-peak
+    name: Diamond Peak
+    kind: diamond_peak
+    source_url: https://www.diamondpeak.com/mountain/conditions
+    lat: 39.2533
+    lon: -119.9283
+    enabled: true
+
+  - slug: mt-rose
+    name: Mt Rose Ski Tahoe
+    kind: mt_rose
+    source_url: https://skirose.com/the-mountain/snow-report/
+    lat: 39.3149
+    lon: -119.8803
+    enabled: true
+
+  - slug: sierra-at-tahoe
+    name: Sierra-at-Tahoe
+    kind: sierra_at_tahoe
+    source_url: https://sierraattahoe.com/weather-snow-report/
+    lat: 38.7994
+    lon: -120.0800
+    enabled: true
+
+  - slug: sugar-bowl
+    name: Sugar Bowl
+    kind: sugar_bowl
+    source_url: https://www.sugarbowl.com/conditions
+    lat: 39.3047
+    lon: -120.3342
+    enabled: true
+
+  # ===== VAIL RESORTS - May need headless for full data =====
+
+  - slug: heavenly
+    name: Heavenly Mountain Resort
+    kind: vail_resorts
+    source_url: https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx
+    lat: 38.9353
+    lon: -119.9400
+    enabled: true
+    note: Uses terrain status page for lift/trail counts
+
+  - slug: northstar
+    name: Northstar California
+    kind: vail_resorts
+    source_url: https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx
+    lat: 39.2746
+    lon: -120.1210
+    enabled: true
+    note: Uses terrain status page for lift/trail counts
+
+  - slug: kirkwood
+    name: Kirkwood Mountain Resort
+    kind: vail_resorts
+    source_url: https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx
+    lat: 38.6850
+    lon: -120.0653
+    enabled: true
+    note: Uses terrain status page for lift/trail counts
+
+  # ===== HEADLESS - Require Playwright =====
+
+  - slug: palisades-tahoe
+    name: Palisades Tahoe
+    kind: palisades
+    source_url: https://www.palisadestahoe.com/mountain-information/mountain-report
+    lat: 39.1969
+    lon: -120.2358
+    enabled: true
+    note: |
+      Alterra resort using mtnfeed.com React app.
+      Requires Playwright headless browser to render JS.
+
+  - slug: boreal
+    name: Boreal Mountain Resort
+    kind: boreal
+    source_url: https://www.rideboreal.com/explore/status-conditions/recent-snowfall/
+    lat: 39.3322
+    lon: -120.3483
+    enabled: true
+    note: Gatsby/React SPA; requires Playwright headless browser
+
+  - slug: soda-springs
+    name: Soda Springs
+    kind: boreal
+    source_url: https://www.skisodasprings.com/conditions/
+    lat: 39.3194
+    lon: -120.3789
+    enabled: true
+    note: Same owner as Boreal; uses same adapter
+
+  - slug: tahoe-donner
+    name: Tahoe Donner
+    kind: tahoe_donner
+    source_url: https://www.tahoedonner.com/downhill-ski/conditions/
+    lat: 39.3517
+    lon: -120.2394
+    enabled: true
+    note: Small private resort; requires Playwright for JS rendering
+
+  - slug: homewood
+    name: Homewood Mountain Resort
+    kind: homewood
+    source_url: https://skihomewood.com/snowreport/
+    lat: 39.0833
+    lon: -120.1603
+    enabled: true
+    note: Reopened Dec 2025. Uses "Open Lifts X/Y" pattern.
+
+  - slug: granlibakken
+    name: Granlibakken Tahoe
+    kind: generic
+    source_url: https://granlibakken.com/ski-sled-hill/
+    lat: 39.1431
+    lon: -120.1519
+    enabled: false
+    note: Very small sledding hill; limited conditions data

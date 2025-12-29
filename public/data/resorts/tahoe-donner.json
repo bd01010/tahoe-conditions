@@ -1,0 +1,35 @@
+{
+  "slug": "tahoe-donner",
+  "name": "Tahoe Donner",
+  "fetched_at_utc": "2025-12-29T16:51:45.118938Z",
+  "stale": false,
+  "sources": {
+    "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
+    "weather_points_url": "https://api.weather.gov/points/39.3517,-120.2394",
+    "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/29,101/forecast"
+  },
+  "ops": {
+    "open_flag": false,
+    "lifts_open": 0,
+    "lifts_scheduled": null,
+    "lifts_total": 3,
+    "trails_open": 0,
+    "trails_scheduled": null,
+    "trails_total": 1
+  },
+  "snow": {
+    "new_snow_24h_in": null,
+    "new_snow_48h_in": null,
+    "base_depth_in": null,
+    "season_total_in": null,
+    "surface": null,
+    "report_updated_at": null
+  },
+  "weather": {
+    "temp_f": 38.0,
+    "wind_mph": 5.0,
+    "wind_gust_mph": null,
+    "short_forecast": "Sunny",
+    "forecast_period_name": "Today"
+  }
+}
