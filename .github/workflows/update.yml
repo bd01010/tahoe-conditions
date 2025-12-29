@@ -37,10 +37,15 @@ jobs:
         run: |
           python -m tahoe_conditions update
 
+      - name: Copy to docs for GitHub Pages
+        run: |
+          mkdir -p docs/data
+          cp -r public/data/* docs/data/
+
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet public/data/; then
+          if git diff --quiet public/data/ docs/data/; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -51,6 +56,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/
+          git add public/data/ docs/data/
           git commit -m "chore: update resort conditions [skip ci]"
           git push

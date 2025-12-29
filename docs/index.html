@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lake Tahoe Ski Conditions</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      color: #fff;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .container { max-width: 1000px; margin: 0 auto; }
+    h1 { text-align: center; margin-bottom: 10px; font-size: 2rem; }
+    .updated { text-align: center; color: #888; margin-bottom: 20px; font-size: 0.9rem; }
+    .highlights {
+      display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;
+      margin-bottom: 20px;
+    }
+    .highlight {
+      background: rgba(255,255,255,0.1); padding: 8px 16px; border-radius: 20px;
+      font-size: 0.85rem;
+    }
+    table { width: 100%; border-collapse: collapse; background: rgba(255,255,255,0.05); border-radius: 10px; overflow: hidden; }
+    th { background: rgba(255,255,255,0.1); padding: 12px; text-align: left; font-weight: 600; }
+    td { padding: 12px; border-top: 1px solid rgba(255,255,255,0.1); }
+    tr:hover { background: rgba(255,255,255,0.05); }
+    .open { color: #4ade80; }
+    .closed { color: #f87171; }
+    .lifts, .trails { font-weight: 600; }
+    .temp { color: #60a5fa; }
+    .wind { color: #a78bfa; }
+    .snow { color: #fbbf24; }
+    @media (max-width: 600px) {
+      table, tr, td { display: block; }
+      tr { margin-bottom: 15px; background: rgba(255,255,255,0.05); border-radius: 8px; padding: 10px; }
+      td { border: none; padding: 4px 0; }
+      td:before { content: attr(data-label); font-weight: 600; margin-right: 10px; }
+      th { display: none; }
+    }
+    .embed-info {
+      margin-top: 30px; padding: 20px; background: rgba(255,255,255,0.05);
+      border-radius: 10px; font-size: 0.85rem;
+    }
+    .embed-info code { background: rgba(0,0,0,0.3); padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Lake Tahoe Ski Conditions</h1>
+    <p class="updated" id="updated">Loading...</p>
+    <div class="highlights" id="highlights"></div>
+    <table id="conditions">
+      <thead>
+        <tr>
+          <th>Resort</th>
+          <th>Lifts</th>
+          <th>Trails</th>
+          <th>Temp</th>
+          <th>Wind</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+
+    <div class="embed-info">
+      <strong>Embed on your site:</strong><br>
+      JSON endpoint: <code>https://bd01010.github.io/tahoe-conditions/data/summary.json</code>
+    </div>
+  </div>
+
+  <script>
+    fetch('data/summary.json')
+      .then(r => r.json())
+      .then(data => {
+        // Update timestamp
+        const date = new Date(data.last_updated_utc);
+        document.getElementById('updated').textContent =
+          'Updated: ' + date.toLocaleString();
+
+        // Highlights
+        const hl = document.getElementById('highlights');
+        data.highlights.forEach(h => {
+          hl.innerHTML += `<span class="highlight">${h}</span>`;
+        });
+
+        // Fetch full data for table
+        return fetch('data/latest.json');
+      })
+      .then(r => r.json())
+      .then(resorts => {
+        const tbody = document.getElementById('tbody');
+        resorts.forEach(r => {
+          const lifts = r.ops.lifts_open !== null
+            ? `${r.ops.lifts_open}/${r.ops.lifts_total}` : '-';
+          const trails = r.ops.trails_open !== null
+            ? `${r.ops.trails_open}/${r.ops.trails_total}` : '-';
+          const temp = r.weather.temp_f !== null ? `${r.weather.temp_f}°F` : '-';
+          const wind = r.weather.wind_mph !== null ? `${r.weather.wind_mph} mph` : '-';
+          const status = r.ops.lifts_open > 0 ? 'open' : 'closed';
+
+          tbody.innerHTML += `
+            <tr>
+              <td data-label="Resort" class="${status}">${r.name}</td>
+              <td data-label="Lifts" class="lifts">${lifts}</td>
+              <td data-label="Trails" class="trails">${trails}</td>
+              <td data-label="Temp" class="temp">${temp}</td>
+              <td data-label="Wind" class="wind">${wind}</td>
+            </tr>
+          `;
+        });
+      })
+      .catch(err => {
+        document.getElementById('tbody').innerHTML =
+          '<tr><td colspan="5">Error loading conditions</td></tr>';
+      });
+  </script>
+</body>
+</html>
