@@ -1,7 +1,7 @@
 {
   "slug": "sugar-bowl",
   "name": "Sugar Bowl",
-  "fetched_at_utc": "2026-01-02T16:42:45.163989Z",
+  "fetched_at_utc": "2026-01-02T17:08:39.923298Z",
   "stale": false,
   "sources": {
     "ops_url": "https://www.sugarbowl.com/conditions",
@@ -10,10 +10,10 @@
   },
   "ops": {
     "open_flag": true,
-    "lifts_open": 2,
+    "lifts_open": 7,
     "lifts_scheduled": null,
     "lifts_total": 11,
-    "trails_open": 73,
+    "trails_open": 71,
     "trails_scheduled": null,
     "trails_total": 105
   },
@@ -26,10 +26,10 @@
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 40.0,
-    "wind_mph": 9.0,
+    "temp_f": 26.0,
+    "wind_mph": 6.0,
     "wind_gust_mph": null,
-    "short_forecast": "Partly Sunny",
-    "forecast_period_name": "Today"
+    "short_forecast": "Mostly Cloudy",
+    "forecast_period_name": "Overnight"
   }
 }
