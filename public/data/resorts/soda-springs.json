@@ -1,8 +1,8 @@
 {
   "slug": "soda-springs",
   "name": "Soda Springs",
-  "fetched_at_utc": "2026-01-04T20:10:38.204518Z",
-  "stale": true,
+  "fetched_at_utc": "2026-01-04T20:40:27.580936Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://www.skisodasprings.com/conditions/",
     "weather_points_url": "https://api.weather.gov/points/39.3194,-120.3789",
@@ -27,7 +27,7 @@
   },
   "weather": {
     "temp_f": 27.0,
-    "wind_mph": 16.0,
+    "wind_mph": 18.0,
     "wind_gust_mph": null,
     "short_forecast": "Heavy Snow",
     "forecast_period_name": "Overnight"
