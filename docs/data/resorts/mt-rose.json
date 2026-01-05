@@ -1,8 +1,8 @@
 {
   "slug": "mt-rose",
   "name": "Mt Rose Ski Tahoe",
-  "fetched_at_utc": "2026-01-05T15:11:39.624774Z",
-  "stale": true,
+  "fetched_at_utc": "2026-01-05T15:42:19.793646Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://skirose.com/the-mountain/snow-report/",
     "weather_points_url": "https://api.weather.gov/points/39.3149,-119.8803",
@@ -18,9 +18,9 @@
     "trails_total": null
   },
   "snow": {
-    "new_snow_24h_in": 13.5,
+    "new_snow_24h_in": 22.5,
     "new_snow_48h_in": 43.0,
-    "base_depth_in": 121.0,
+    "base_depth_in": 130.0,
     "season_total_in": null,
     "surface": null,
     "report_updated_at": null
