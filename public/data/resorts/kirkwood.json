@@ -1,8 +1,8 @@
 {
   "slug": "kirkwood",
   "name": "Kirkwood Mountain Resort",
-  "fetched_at_utc": "2026-01-22T16:48:20.863689Z",
-  "stale": false,
+  "fetched_at_utc": "2026-01-22T17:15:17.274857Z",
+  "stale": true,
   "sources": {
     "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
     "weather_points_url": "https://api.weather.gov/points/38.685,-120.0653",
@@ -29,7 +29,7 @@
     "temp_f": 44.0,
     "wind_mph": 5.0,
     "wind_gust_mph": null,
-    "short_forecast": "Partly Sunny",
+    "short_forecast": "Mostly Sunny",
     "forecast_period_name": "Today"
   }
 }
