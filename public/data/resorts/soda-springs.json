@@ -1,8 +1,8 @@
 {
   "slug": "soda-springs",
   "name": "Soda Springs",
-  "fetched_at_utc": "2026-01-26T15:14:34.153305Z",
-  "stale": true,
+  "fetched_at_utc": "2026-01-26T15:45:55.922968Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://www.skisodasprings.com/conditions/",
     "weather_points_url": "https://api.weather.gov/points/39.3194,-120.3789",
@@ -10,7 +10,7 @@
   },
   "ops": {
     "open_flag": true,
-    "lifts_open": 18,
+    "lifts_open": 17,
     "lifts_scheduled": null,
     "lifts_total": 18,
     "trails_open": null,
