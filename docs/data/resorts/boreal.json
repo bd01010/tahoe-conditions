@@ -1,8 +1,8 @@
 {
   "slug": "boreal",
   "name": "Boreal Mountain Resort",
-  "fetched_at_utc": "2026-01-27T14:17:13.185730Z",
-  "stale": true,
+  "fetched_at_utc": "2026-01-27T14:47:23.306967Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
     "weather_points_url": "https://api.weather.gov/points/39.3322,-120.3483",
@@ -26,10 +26,10 @@
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 22.0,
-    "wind_mph": 5.0,
+    "temp_f": 41.0,
+    "wind_mph": 7.0,
     "wind_gust_mph": null,
-    "short_forecast": "Partly Cloudy",
-    "forecast_period_name": "Overnight"
+    "short_forecast": "Mostly Sunny",
+    "forecast_period_name": "Today"
   }
 }
