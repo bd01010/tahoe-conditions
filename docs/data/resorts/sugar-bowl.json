@@ -1,12 +1,12 @@
 {
   "slug": "sugar-bowl",
   "name": "Sugar Bowl",
-  "fetched_at_utc": "2026-01-29T17:19:37.187813Z",
+  "fetched_at_utc": "2026-01-29T17:49:34.126804Z",
   "stale": false,
   "sources": {
     "ops_url": "https://www.sugarbowl.com/conditions",
     "weather_points_url": "https://api.weather.gov/points/39.3047,-120.3342",
-    "weather_forecast_url": "https://api.weather.gov/gridpoints/STO/87,93/forecast"
+    "weather_forecast_url": null
   },
   "ops": {
     "open_flag": true,
@@ -26,10 +26,10 @@
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 49.0,
-    "wind_mph": 2.0,
+    "temp_f": null,
+    "wind_mph": null,
     "wind_gust_mph": null,
-    "short_forecast": "Mostly Sunny",
-    "forecast_period_name": "Today"
+    "short_forecast": null,
+    "forecast_period_name": null
   }
 }
