@@ -1,7 +1,7 @@
 {
   "slug": "palisades-tahoe",
   "name": "Palisades Tahoe",
-  "fetched_at_utc": "2026-01-31T14:11:10.848258Z",
+  "fetched_at_utc": "2026-01-31T14:43:17.649045Z",
   "stale": false,
   "sources": {
     "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -18,7 +18,7 @@
     "trails_total": 296
   },
   "snow": {
-    "new_snow_24h_in": 0.0,
+    "new_snow_24h_in": null,
     "new_snow_48h_in": null,
     "base_depth_in": 154.0,
     "season_total_in": 154.0,
@@ -26,10 +26,10 @@
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 28.0,
+    "temp_f": 54.0,
     "wind_mph": 0.0,
     "wind_gust_mph": null,
-    "short_forecast": "Mostly Cloudy",
-    "forecast_period_name": "Overnight"
+    "short_forecast": "Partly Sunny",
+    "forecast_period_name": "Today"
   }
 }
