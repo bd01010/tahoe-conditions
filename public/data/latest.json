@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-02-16T13:36:49.998485+00:00",
+  "generated_at_utc": "2026-02-16T14:25:56.754284+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-02-16T13:35:41.017800Z",
+      "fetched_at_utc": "2026-02-16T14:24:45.262394Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -29,17 +29,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 27.0,
-        "wind_mph": 5.0,
+        "temp_f": 34.0,
+        "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Light Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-02-16T13:35:43.345082Z",
+      "fetched_at_utc": "2026-02-16T14:24:49.243940Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -64,17 +64,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 23.0,
-        "wind_mph": 15.0,
+        "temp_f": 28.0,
+        "wind_mph": 40.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Light Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-02-16T13:35:46.317218Z",
+      "fetched_at_utc": "2026-02-16T14:24:53.327509Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -99,17 +99,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 28.0,
-        "wind_mph": 5.0,
+        "temp_f": 33.0,
+        "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-02-16T13:35:49.332801Z",
+      "fetched_at_utc": "2026-02-16T14:24:57.429049Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -121,30 +121,30 @@
         "lifts_open": 0,
         "lifts_scheduled": null,
         "lifts_total": 11,
-        "trails_open": 103,
+        "trails_open": 78,
         "trails_scheduled": null,
         "trails_total": 105
       },
       "snow": {
-        "new_snow_24h_in": 0.0,
+        "new_snow_24h_in": 6.0,
         "new_snow_48h_in": null,
-        "base_depth_in": 54.0,
-        "season_total_in": 177.0,
+        "base_depth_in": 58.0,
+        "season_total_in": 183.0,
         "surface": null,
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 25.0,
-        "wind_mph": 6.0,
+        "temp_f": 33.0,
+        "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Heavy Snow Likely",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-02-16T13:35:52.224617Z",
+      "fetched_at_utc": "2026-02-16T14:25:17.170579Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -169,17 +169,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 30.0,
-        "wind_mph": 0.0,
+        "temp_f": 36.0,
+        "wind_mph": 20.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Light Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-02-16T13:36:00.541569Z",
+      "fetched_at_utc": "2026-02-16T14:25:20.239962Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -189,7 +189,7 @@
       "ops": {
         "open_flag": true,
         "lifts_open": 0,
-        "lifts_scheduled": 0,
+        "lifts_scheduled": 19,
         "lifts_total": 19,
         "trails_open": 97,
         "trails_scheduled": 0,
@@ -204,17 +204,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 30.0,
-        "wind_mph": 5.0,
+        "temp_f": 36.0,
+        "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Light Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-02-16T13:36:03.357054Z",
+      "fetched_at_utc": "2026-02-16T14:25:23.294441Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -226,7 +226,7 @@
         "lifts_open": 0,
         "lifts_scheduled": 12,
         "lifts_total": 12,
-        "trails_open": 107,
+        "trails_open": 106,
         "trails_scheduled": 0,
         "trails_total": 113
       },
@@ -239,17 +239,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 25.0,
-        "wind_mph": 9.0,
+        "temp_f": 31.0,
+        "wind_mph": 25.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Heavy Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-02-16T13:36:06.331948Z",
+      "fetched_at_utc": "2026-02-16T14:25:26.714714Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -268,24 +268,24 @@
       "snow": {
         "new_snow_24h_in": null,
         "new_snow_48h_in": null,
-        "base_depth_in": 163.0,
-        "season_total_in": 163.0,
+        "base_depth_in": 165.0,
+        "season_total_in": 165.0,
         "surface": null,
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 25.0,
-        "wind_mph": 5.0,
+        "temp_f": 35.0,
+        "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Heavy Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-02-16T13:36:15.207319Z",
-      "stale": true,
+      "fetched_at_utc": "2026-02-16T14:25:34.425054Z",
+      "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
         "weather_points_url": "https://api.weather.gov/points/39.3322,-120.3483",
@@ -309,17 +309,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 26.0,
-        "wind_mph": 6.0,
+        "temp_f": 32.0,
+        "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Heavy Snow Likely",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-02-16T13:36:33.345509Z",
+      "fetched_at_utc": "2026-02-16T14:25:41.724498Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
@@ -344,17 +344,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 26.0,
-        "wind_mph": 6.0,
+        "temp_f": 33.0,
+        "wind_mph": 17.0,
         "wind_gust_mph": null,
-        "short_forecast": "Heavy Snow Likely",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-02-16T13:36:38.934651Z",
+      "fetched_at_utc": "2026-02-16T14:25:46.422212Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -379,17 +379,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 27.0,
-        "wind_mph": 0.0,
+        "temp_f": 34.0,
+        "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     },
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-02-16T13:36:45.032185Z",
+      "fetched_at_utc": "2026-02-16T14:25:52.066518Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
@@ -414,11 +414,11 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 30.0,
-        "wind_mph": 5.0,
+        "temp_f": 33.0,
+        "wind_mph": 20.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Snow",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Heavy Snow",
+        "forecast_period_name": "Washington's Birthday"
       }
     }
   ]
