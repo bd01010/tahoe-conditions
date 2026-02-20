@@ -1,8 +1,8 @@
 {
   "slug": "soda-springs",
   "name": "Soda Springs",
-  "fetched_at_utc": "2026-02-20T15:21:49.081520Z",
-  "stale": true,
+  "fetched_at_utc": "2026-02-20T15:49:01.426167Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://www.skisodasprings.com/conditions/",
     "weather_points_url": "https://api.weather.gov/points/39.3194,-120.3789",
@@ -18,7 +18,7 @@
     "trails_total": null
   },
   "snow": {
-    "new_snow_24h_in": 0.0,
+    "new_snow_24h_in": 10.0,
     "new_snow_48h_in": null,
     "base_depth_in": null,
     "season_total_in": null,
