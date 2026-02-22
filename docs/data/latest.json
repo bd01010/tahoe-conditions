@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-02-22T19:14:08.946953+00:00",
+  "generated_at_utc": "2026-02-22T19:41:15.894294+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-02-22T19:13:21.562767Z",
+      "fetched_at_utc": "2026-02-22T19:40:30.738505Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -39,7 +39,7 @@
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-02-22T19:13:23.510978Z",
+      "fetched_at_utc": "2026-02-22T19:40:32.803960Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -74,7 +74,7 @@
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-02-22T19:13:26.503542Z",
+      "fetched_at_utc": "2026-02-22T19:40:35.852687Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -109,7 +109,7 @@
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-02-22T19:13:29.490259Z",
+      "fetched_at_utc": "2026-02-22T19:40:38.709521Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -144,7 +144,7 @@
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-02-22T19:13:32.491805Z",
+      "fetched_at_utc": "2026-02-22T19:40:41.639961Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -179,7 +179,7 @@
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-02-22T19:13:35.672459Z",
+      "fetched_at_utc": "2026-02-22T19:40:44.671506Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -214,7 +214,7 @@
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-02-22T19:13:38.475475Z",
+      "fetched_at_utc": "2026-02-22T19:40:47.769880Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -249,8 +249,8 @@
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-02-22T19:13:41.474328Z",
-      "stale": true,
+      "fetched_at_utc": "2026-02-22T19:40:50.646691Z",
+      "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
         "weather_points_url": "https://api.weather.gov/points/39.1969,-120.2358",
@@ -261,7 +261,7 @@
         "lifts_open": 36,
         "lifts_scheduled": null,
         "lifts_total": 39,
-        "trails_open": 196,
+        "trails_open": 204,
         "trails_scheduled": null,
         "trails_total": 296
       },
@@ -284,7 +284,7 @@
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-02-22T19:13:47.805122Z",
+      "fetched_at_utc": "2026-02-22T19:40:58.922230Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
@@ -319,7 +319,7 @@
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-02-22T19:13:53.858299Z",
+      "fetched_at_utc": "2026-02-22T19:41:03.541150Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
@@ -354,7 +354,7 @@
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-02-22T19:13:58.028817Z",
+      "fetched_at_utc": "2026-02-22T19:41:07.727391Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -389,7 +389,7 @@
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-02-22T19:14:03.731139Z",
+      "fetched_at_utc": "2026-02-22T19:41:12.360687Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
