@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-02-24T19:52:20.197402+00:00",
+  "generated_at_utc": "2026-02-24T20:17:41.520148+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-02-24T19:51:02.624420Z",
+      "fetched_at_utc": "2026-02-24T20:16:50.892209Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -30,16 +30,16 @@
       },
       "weather": {
         "temp_f": 45.0,
-        "wind_mph": 20.0,
+        "wind_mph": 25.0,
         "wind_gust_mph": null,
         "short_forecast": "Light Rain Likely",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-02-24T19:51:06.440377Z",
+      "fetched_at_utc": "2026-02-24T20:16:53.606898Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -67,14 +67,14 @@
         "temp_f": 40.0,
         "wind_mph": 75.0,
         "wind_gust_mph": null,
-        "short_forecast": "Rain Likely",
-        "forecast_period_name": "Today"
+        "short_forecast": "Light Rain Likely",
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-02-24T19:51:09.309205Z",
+      "fetched_at_utc": "2026-02-24T20:16:56.771358Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -103,13 +103,13 @@
         "wind_mph": 15.0,
         "wind_gust_mph": null,
         "short_forecast": "Heavy Rain",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-02-24T19:51:13.005613Z",
+      "fetched_at_utc": "2026-02-24T20:16:59.602427Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -144,7 +144,7 @@
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-02-24T19:51:15.791476Z",
+      "fetched_at_utc": "2026-02-24T20:17:02.513236Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -173,13 +173,13 @@
         "wind_mph": 25.0,
         "wind_gust_mph": null,
         "short_forecast": "Rain Likely",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-02-24T19:51:20.168739Z",
+      "fetched_at_utc": "2026-02-24T20:17:06.951400Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -208,13 +208,13 @@
         "wind_mph": 20.0,
         "wind_gust_mph": null,
         "short_forecast": "Rain",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-02-24T19:51:23.109473Z",
+      "fetched_at_utc": "2026-02-24T20:17:10.125829Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -240,16 +240,16 @@
       },
       "weather": {
         "temp_f": 41.0,
-        "wind_mph": 21.0,
+        "wind_mph": 20.0,
         "wind_gust_mph": null,
         "short_forecast": "Rain",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-02-24T19:51:25.971729Z",
+      "fetched_at_utc": "2026-02-24T20:17:13.832844Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -278,14 +278,14 @@
         "wind_mph": 20.0,
         "wind_gust_mph": null,
         "short_forecast": "Rain",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-02-24T19:51:35.244607Z",
-      "stale": true,
+      "fetched_at_utc": "2026-02-24T20:17:21.071549Z",
+      "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
         "weather_points_url": "https://api.weather.gov/points/39.3322,-120.3483",
@@ -313,14 +313,14 @@
         "wind_mph": 15.0,
         "wind_gust_mph": null,
         "short_forecast": "Rain",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-02-24T19:51:53.201590Z",
-      "stale": true,
+      "fetched_at_utc": "2026-02-24T20:17:26.968654Z",
+      "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
         "weather_points_url": "https://api.weather.gov/points/39.3194,-120.3789",
@@ -345,16 +345,16 @@
       },
       "weather": {
         "temp_f": 42.0,
-        "wind_mph": 17.0,
+        "wind_mph": 16.0,
         "wind_gust_mph": null,
         "short_forecast": "Heavy Rain",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-02-24T19:52:10.991453Z",
+      "fetched_at_utc": "2026-02-24T20:17:31.876683Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -380,16 +380,16 @@
       },
       "weather": {
         "temp_f": 43.0,
-        "wind_mph": 20.0,
+        "wind_mph": 25.0,
         "wind_gust_mph": null,
         "short_forecast": "Rain",
-        "forecast_period_name": "Today"
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-02-24T19:52:16.080920Z",
+      "fetched_at_utc": "2026-02-24T20:17:37.893076Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
@@ -414,11 +414,11 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 42.0,
+        "temp_f": 44.0,
         "wind_mph": 25.0,
         "wind_gust_mph": null,
-        "short_forecast": "Rain",
-        "forecast_period_name": "Today"
+        "short_forecast": "Heavy Rain",
+        "forecast_period_name": "This Afternoon"
       }
     }
   ]
