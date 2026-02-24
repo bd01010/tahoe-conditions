@@ -1,7 +1,7 @@
 {
   "slug": "homewood",
   "name": "Homewood Mountain Resort",
-  "fetched_at_utc": "2026-02-24T22:15:48.548544Z",
+  "fetched_at_utc": "2026-02-24T22:54:19.735825Z",
   "stale": false,
   "sources": {
     "ops_url": "https://skihomewood.com/snowreport/",
@@ -9,8 +9,8 @@
     "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/29,89/forecast"
   },
   "ops": {
-    "open_flag": false,
-    "lifts_open": 0,
+    "open_flag": true,
+    "lifts_open": 1,
     "lifts_scheduled": null,
     "lifts_total": 7,
     "trails_open": 0,
