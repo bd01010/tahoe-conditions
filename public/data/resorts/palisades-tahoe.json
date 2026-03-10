@@ -1,8 +1,8 @@
 {
   "slug": "palisades-tahoe",
   "name": "Palisades Tahoe",
-  "fetched_at_utc": "2026-03-10T20:15:35.569661Z",
-  "stale": true,
+  "fetched_at_utc": "2026-03-10T20:47:10.814545Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
     "weather_points_url": "https://api.weather.gov/points/39.1969,-120.2358",
@@ -10,10 +10,10 @@
   },
   "ops": {
     "open_flag": true,
-    "lifts_open": 30,
+    "lifts_open": 28,
     "lifts_scheduled": null,
     "lifts_total": 39,
-    "trails_open": 173,
+    "trails_open": 174,
     "trails_scheduled": null,
     "trails_total": 296
   },
