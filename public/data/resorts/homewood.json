@@ -1,26 +1,26 @@
 {
   "slug": "homewood",
   "name": "Homewood Mountain Resort",
-  "fetched_at_utc": "2026-03-13T19:45:49.893937Z",
-  "stale": true,
+  "fetched_at_utc": "2026-03-13T20:16:21.431823Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://skihomewood.com/snowreport/",
     "weather_points_url": "https://api.weather.gov/points/39.0833,-120.1603",
     "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/29,89/forecast"
   },
   "ops": {
-    "open_flag": true,
-    "lifts_open": 4,
+    "open_flag": false,
+    "lifts_open": 0,
     "lifts_scheduled": null,
-    "lifts_total": 7,
-    "trails_open": 46,
+    "lifts_total": 0,
+    "trails_open": 0,
     "trails_scheduled": null,
-    "trails_total": 67
+    "trails_total": 0
   },
   "snow": {
     "new_snow_24h_in": null,
     "new_snow_48h_in": null,
-    "base_depth_in": 0.0,
+    "base_depth_in": null,
     "season_total_in": null,
     "surface": null,
     "report_updated_at": null
@@ -30,6 +30,6 @@
     "wind_mph": 5.0,
     "wind_gust_mph": null,
     "short_forecast": "Mostly Sunny",
-    "forecast_period_name": "This Afternoon"
+    "forecast_period_name": "Today"
   }
 }
