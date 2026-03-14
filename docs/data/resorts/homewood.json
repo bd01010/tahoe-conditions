@@ -1,8 +1,8 @@
 {
   "slug": "homewood",
   "name": "Homewood Mountain Resort",
-  "fetched_at_utc": "2026-03-14T18:49:33.680142Z",
-  "stale": true,
+  "fetched_at_utc": "2026-03-14T19:15:11.849696Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://skihomewood.com/snowreport/",
     "weather_points_url": "https://api.weather.gov/points/39.0833,-120.1603",
@@ -30,6 +30,6 @@
     "wind_mph": 5.0,
     "wind_gust_mph": null,
     "short_forecast": "Sunny",
-    "forecast_period_name": "Today"
+    "forecast_period_name": "This Afternoon"
   }
 }
