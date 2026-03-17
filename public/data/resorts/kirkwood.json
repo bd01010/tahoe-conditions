@@ -1,7 +1,7 @@
 {
   "slug": "kirkwood",
   "name": "Kirkwood Mountain Resort",
-  "fetched_at_utc": "2026-03-17T22:16:31.458408Z",
+  "fetched_at_utc": "2026-03-17T22:47:44.466712Z",
   "stale": false,
   "sources": {
     "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -10,10 +10,10 @@
   },
   "ops": {
     "open_flag": true,
-    "lifts_open": 12,
-    "lifts_scheduled": 0,
+    "lifts_open": 11,
+    "lifts_scheduled": 1,
     "lifts_total": 12,
-    "trails_open": 101,
+    "trails_open": 99,
     "trails_scheduled": 0,
     "trails_total": 113
   },
@@ -27,7 +27,7 @@
   },
   "weather": {
     "temp_f": 69.0,
-    "wind_mph": 6.0,
+    "wind_mph": 7.0,
     "wind_gust_mph": null,
     "short_forecast": "Sunny",
     "forecast_period_name": "This Afternoon"
