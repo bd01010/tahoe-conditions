@@ -1,7 +1,7 @@
 {
   "slug": "sierra-at-tahoe",
   "name": "Sierra-at-Tahoe",
-  "fetched_at_utc": "2026-03-22T22:44:00.596798Z",
+  "fetched_at_utc": "2026-03-22T23:12:56.661823Z",
   "stale": false,
   "sources": {
     "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -9,11 +9,11 @@
     "weather_forecast_url": "https://api.weather.gov/gridpoints/STO/92,69/forecast"
   },
   "ops": {
-    "open_flag": true,
-    "lifts_open": 4,
+    "open_flag": false,
+    "lifts_open": 0,
     "lifts_scheduled": null,
     "lifts_total": 14,
-    "trails_open": 4,
+    "trails_open": 0,
     "trails_scheduled": null,
     "trails_total": 14
   },
@@ -29,7 +29,7 @@
     "temp_f": 65.0,
     "wind_mph": 5.0,
     "wind_gust_mph": null,
-    "short_forecast": "Sunny",
+    "short_forecast": "Mostly Sunny",
     "forecast_period_name": "This Afternoon"
   }
 }
