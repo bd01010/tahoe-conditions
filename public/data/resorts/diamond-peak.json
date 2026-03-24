@@ -1,7 +1,7 @@
 {
   "slug": "diamond-peak",
   "name": "Diamond Peak",
-  "fetched_at_utc": "2026-03-24T12:55:58.741660Z",
+  "fetched_at_utc": "2026-03-24T13:39:08.303066Z",
   "stale": false,
   "sources": {
     "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -13,23 +13,23 @@
     "lifts_open": 4,
     "lifts_scheduled": null,
     "lifts_total": 7,
-    "trails_open": 10,
+    "trails_open": 9,
     "trails_scheduled": null,
     "trails_total": 42
   },
   "snow": {
     "new_snow_24h_in": 0.0,
     "new_snow_48h_in": 0.0,
-    "base_depth_in": 15.0,
+    "base_depth_in": 12.0,
     "season_total_in": null,
     "surface": null,
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 44.0,
-    "wind_mph": 5.0,
+    "temp_f": 65.0,
+    "wind_mph": 10.0,
     "wind_gust_mph": null,
-    "short_forecast": "Mostly Clear",
-    "forecast_period_name": "Overnight"
+    "short_forecast": "Sunny",
+    "forecast_period_name": "Today"
   }
 }
