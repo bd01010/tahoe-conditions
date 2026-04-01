@@ -1,7 +1,7 @@
 {
   "slug": "sugar-bowl",
   "name": "Sugar Bowl",
-  "fetched_at_utc": "2026-04-01T21:49:17.361031Z",
+  "fetched_at_utc": "2026-04-01T22:18:56.589325Z",
   "stale": false,
   "sources": {
     "ops_url": "https://www.sugarbowl.com/conditions",
@@ -9,7 +9,7 @@
     "weather_forecast_url": "https://api.weather.gov/gridpoints/STO/87,93/forecast"
   },
   "ops": {
-    "open_flag": false,
+    "open_flag": true,
     "lifts_open": 0,
     "lifts_scheduled": null,
     "lifts_total": 11,
