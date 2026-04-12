@@ -1,8 +1,8 @@
 {
   "slug": "diamond-peak",
   "name": "Diamond Peak",
-  "fetched_at_utc": "2026-04-12T00:58:00.086182Z",
-  "stale": true,
+  "fetched_at_utc": "2026-04-12T01:42:24.998573Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://www.diamondpeak.com/mountain/conditions",
     "weather_points_url": "https://api.weather.gov/points/39.2533,-119.9283",
@@ -26,10 +26,10 @@
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 43.0,
+    "temp_f": 25.0,
     "wind_mph": 15.0,
     "wind_gust_mph": null,
-    "short_forecast": "Chance Rain And Snow",
-    "forecast_period_name": "This Afternoon"
+    "short_forecast": "Rain And Snow",
+    "forecast_period_name": "Tonight"
   }
 }
