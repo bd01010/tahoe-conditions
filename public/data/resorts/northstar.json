@@ -1,8 +1,8 @@
 {
   "slug": "northstar",
   "name": "Northstar California",
-  "fetched_at_utc": "2026-04-17T23:49:07.434556Z",
-  "stale": false,
+  "fetched_at_utc": "2026-04-18T00:53:35.913677Z",
+  "stale": true,
   "sources": {
     "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
     "weather_points_url": "https://api.weather.gov/points/39.2746,-120.121",
@@ -27,7 +27,7 @@
   },
   "weather": {
     "temp_f": 53.0,
-    "wind_mph": 5.0,
+    "wind_mph": 0.0,
     "wind_gust_mph": null,
     "short_forecast": "Sunny",
     "forecast_period_name": "This Afternoon"
