@@ -1,8 +1,8 @@
 {
   "slug": "sierra-at-tahoe",
   "name": "Sierra-at-Tahoe",
-  "fetched_at_utc": "2026-04-22T05:48:51.589670Z",
-  "stale": true,
+  "fetched_at_utc": "2026-04-22T06:51:06.864904Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://sierraattahoe.com/weather-snow-report/",
     "weather_points_url": "https://api.weather.gov/points/38.7994,-120.08",
@@ -27,9 +27,9 @@
   },
   "weather": {
     "temp_f": 24.0,
-    "wind_mph": 8.0,
+    "wind_mph": 7.0,
     "wind_gust_mph": null,
-    "short_forecast": "Snow Showers Likely then Heavy Snow",
+    "short_forecast": "Heavy Snow",
     "forecast_period_name": "Tonight"
   }
 }
