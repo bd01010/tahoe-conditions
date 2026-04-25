@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-04-24T23:49:21.095932+00:00",
+  "generated_at_utc": "2026-04-25T00:56:19.238999+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-04-24T23:48:33.241515Z",
+      "fetched_at_utc": "2026-04-25T00:55:33.732899Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -32,14 +32,14 @@
         "temp_f": 53.0,
         "wind_mph": 10.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Showers And Thunderstorms",
+        "short_forecast": "Slight Chance Showers And Thunderstorms",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-04-24T23:48:35.339059Z",
+      "fetched_at_utc": "2026-04-25T00:55:36.388356Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -67,14 +67,14 @@
         "temp_f": 45.0,
         "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Snow Showers",
+        "short_forecast": "Slight Chance Snow Showers",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-04-24T23:48:38.341232Z",
+      "fetched_at_utc": "2026-04-25T00:55:39.673520Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -109,7 +109,7 @@
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-04-24T23:48:41.345018Z",
+      "fetched_at_utc": "2026-04-25T00:55:42.607505Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -137,14 +137,14 @@
         "temp_f": 52.0,
         "wind_mph": 9.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Showers And Thunderstorms",
+        "short_forecast": "Slight Chance Light Rain",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-04-24T23:48:44.342274Z",
+      "fetched_at_utc": "2026-04-25T00:55:45.706823Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -179,7 +179,7 @@
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-04-24T23:48:47.350832Z",
+      "fetched_at_utc": "2026-04-25T00:55:48.594012Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -207,14 +207,14 @@
         "temp_f": 58.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Showers And Thunderstorms",
+        "short_forecast": "Slight Chance Showers And Thunderstorms",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-04-24T23:48:50.338405Z",
+      "fetched_at_utc": "2026-04-25T00:55:51.925211Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -249,7 +249,7 @@
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-04-24T23:48:53.338869Z",
+      "fetched_at_utc": "2026-04-25T00:55:54.482325Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -275,16 +275,16 @@
       },
       "weather": {
         "temp_f": 55.0,
-        "wind_mph": 10.0,
+        "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Showers And Thunderstorms",
-        "forecast_period_name": "Today"
+        "short_forecast": "Slight Chance Showers And Thunderstorms",
+        "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-04-24T23:49:01.354885Z",
+      "fetched_at_utc": "2026-04-25T00:56:01.236640Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
@@ -319,7 +319,7 @@
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-04-24T23:49:07.384516Z",
+      "fetched_at_utc": "2026-04-25T00:56:05.936293Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
@@ -354,7 +354,7 @@
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-04-24T23:49:12.278727Z",
+      "fetched_at_utc": "2026-04-25T00:56:10.078015Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -382,14 +382,14 @@
         "temp_f": 55.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Showers And Thunderstorms",
+        "short_forecast": "Slight Chance Rain Showers",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-04-24T23:49:17.292793Z",
+      "fetched_at_utc": "2026-04-25T00:56:15.595154Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
@@ -417,7 +417,7 @@
         "temp_f": 51.0,
         "wind_mph": 10.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Showers And Thunderstorms",
+        "short_forecast": "Slight Chance Showers And Thunderstorms",
         "forecast_period_name": "This Afternoon"
       }
     }
