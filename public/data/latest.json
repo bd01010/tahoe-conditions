@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-05-02T18:28:34.392250+00:00",
+  "generated_at_utc": "2026-05-02T18:54:30.493401+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-05-02T18:27:47.974385Z",
+      "fetched_at_utc": "2026-05-02T18:53:40.489733Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -39,7 +39,7 @@
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-05-02T18:27:49.855206Z",
+      "fetched_at_utc": "2026-05-02T18:53:43.052903Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -67,14 +67,14 @@
         "temp_f": 52.0,
         "wind_mph": 20.0,
         "wind_gust_mph": null,
-        "short_forecast": "Partly Sunny then Chance Showers And Thunderstorms",
+        "short_forecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-05-02T18:27:52.852551Z",
+      "fetched_at_utc": "2026-05-02T18:53:46.912150Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -100,7 +100,7 @@
       },
       "weather": {
         "temp_f": 58.0,
-        "wind_mph": 8.0,
+        "wind_mph": 7.0,
         "wind_gust_mph": null,
         "short_forecast": "Chance Light Rain then Chance Showers And Thunderstorms",
         "forecast_period_name": "Today"
@@ -109,7 +109,7 @@
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-05-02T18:27:55.850625Z",
+      "fetched_at_utc": "2026-05-02T18:53:51.878901Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -144,7 +144,7 @@
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-05-02T18:27:58.850288Z",
+      "fetched_at_utc": "2026-05-02T18:53:54.892600Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -179,7 +179,7 @@
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-05-02T18:28:01.853414Z",
+      "fetched_at_utc": "2026-05-02T18:53:57.678953Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -207,14 +207,14 @@
         "temp_f": 65.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Partly Sunny then Chance Showers And Thunderstorms",
+        "short_forecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-05-02T18:28:04.851010Z",
+      "fetched_at_utc": "2026-05-02T18:54:00.792699Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -240,7 +240,7 @@
       },
       "weather": {
         "temp_f": 56.0,
-        "wind_mph": 13.0,
+        "wind_mph": 12.0,
         "wind_gust_mph": null,
         "short_forecast": "Chance Light Rain then Chance Showers And Thunderstorms",
         "forecast_period_name": "Today"
@@ -249,7 +249,7 @@
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-05-02T18:28:07.855440Z",
+      "fetched_at_utc": "2026-05-02T18:54:03.555282Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -284,7 +284,7 @@
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-05-02T18:28:15.515845Z",
+      "fetched_at_utc": "2026-05-02T18:54:10.998702Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
@@ -310,7 +310,7 @@
       },
       "weather": {
         "temp_f": 58.0,
-        "wind_mph": 10.0,
+        "wind_mph": 9.0,
         "wind_gust_mph": null,
         "short_forecast": "Chance Light Rain then Chance Showers And Thunderstorms",
         "forecast_period_name": "Today"
@@ -319,7 +319,7 @@
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-05-02T18:28:21.752914Z",
+      "fetched_at_utc": "2026-05-02T18:54:16.344257Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
@@ -344,7 +344,7 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 60.0,
+        "temp_f": 59.0,
         "wind_mph": 10.0,
         "wind_gust_mph": null,
         "short_forecast": "Chance Light Rain then Chance Showers And Thunderstorms",
@@ -354,7 +354,7 @@
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-05-02T18:28:26.104339Z",
+      "fetched_at_utc": "2026-05-02T18:54:20.661966Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -382,14 +382,14 @@
         "temp_f": 62.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Partly Sunny then Chance Showers And Thunderstorms",
+        "short_forecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-05-02T18:28:30.611771Z",
+      "fetched_at_utc": "2026-05-02T18:54:26.775176Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
