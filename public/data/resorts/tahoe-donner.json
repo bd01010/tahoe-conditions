@@ -1,8 +1,8 @@
 {
   "slug": "tahoe-donner",
   "name": "Tahoe Donner",
-  "fetched_at_utc": "2026-05-12T02:24:44.168971Z",
-  "stale": false,
+  "fetched_at_utc": "2026-05-12T03:49:20.137230Z",
+  "stale": true,
   "sources": {
     "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
     "weather_points_url": "https://api.weather.gov/points/39.3517,-120.2394",
@@ -27,7 +27,7 @@
   },
   "weather": {
     "temp_f": 44.0,
-    "wind_mph": 10.0,
+    "wind_mph": 5.0,
     "wind_gust_mph": null,
     "short_forecast": "Mostly Clear",
     "forecast_period_name": "Tonight"
