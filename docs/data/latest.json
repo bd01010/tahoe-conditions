@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-05-26T20:19:46.755271+00:00",
+  "generated_at_utc": "2026-05-26T21:08:23.927380+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-05-26T20:19:01.652036Z",
+      "fetched_at_utc": "2026-05-26T21:07:35.508512Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -30,7 +30,7 @@
       },
       "weather": {
         "temp_f": 44.0,
-        "wind_mph": 15.0,
+        "wind_mph": 10.0,
         "wind_gust_mph": null,
         "short_forecast": "Chance Snow Showers",
         "forecast_period_name": "This Afternoon"
@@ -39,7 +39,7 @@
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-05-26T20:19:03.655839Z",
+      "fetched_at_utc": "2026-05-26T21:07:37.669473Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -65,7 +65,7 @@
       },
       "weather": {
         "temp_f": 36.0,
-        "wind_mph": 30.0,
+        "wind_mph": 25.0,
         "wind_gust_mph": null,
         "short_forecast": "Chance Snow Showers",
         "forecast_period_name": "This Afternoon"
@@ -74,7 +74,7 @@
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-05-26T20:19:07.061061Z",
+      "fetched_at_utc": "2026-05-26T21:07:40.763438Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -102,14 +102,14 @@
         "temp_f": 41.0,
         "wind_mph": 9.0,
         "wind_gust_mph": null,
-        "short_forecast": "Slight Chance Light Snow",
+        "short_forecast": "Chance Snow Showers",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-05-26T20:19:10.120128Z",
+      "fetched_at_utc": "2026-05-26T21:07:43.879947Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -144,7 +144,7 @@
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-05-26T20:19:13.258797Z",
+      "fetched_at_utc": "2026-05-26T21:07:46.713199Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -170,7 +170,7 @@
       },
       "weather": {
         "temp_f": 47.0,
-        "wind_mph": 15.0,
+        "wind_mph": 10.0,
         "wind_gust_mph": null,
         "short_forecast": "Chance Snow Showers",
         "forecast_period_name": "This Afternoon"
@@ -179,7 +179,7 @@
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-05-26T20:19:16.492988Z",
+      "fetched_at_utc": "2026-05-26T21:07:49.731557Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -207,14 +207,14 @@
         "temp_f": 49.0,
         "wind_mph": 10.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Snow Showers",
+        "short_forecast": "Chance T-storms",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-05-26T20:19:19.494327Z",
+      "fetched_at_utc": "2026-05-26T21:07:52.756708Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -242,14 +242,14 @@
         "temp_f": 40.0,
         "wind_mph": 12.0,
         "wind_gust_mph": null,
-        "short_forecast": "Slight Chance Light Snow",
+        "short_forecast": "Snow Showers Likely",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-05-26T20:19:22.537479Z",
+      "fetched_at_utc": "2026-05-26T21:07:56.026245Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -277,14 +277,14 @@
         "temp_f": 47.0,
         "wind_mph": 10.0,
         "wind_gust_mph": null,
-        "short_forecast": "Chance Snow Showers",
+        "short_forecast": "Chance T-storms",
         "forecast_period_name": "This Afternoon"
       }
     },
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-05-26T20:19:29.470908Z",
+      "fetched_at_utc": "2026-05-26T21:08:04.643138Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
@@ -310,7 +310,7 @@
       },
       "weather": {
         "temp_f": 40.0,
-        "wind_mph": 10.0,
+        "wind_mph": 9.0,
         "wind_gust_mph": null,
         "short_forecast": "Snow Showers Likely",
         "forecast_period_name": "This Afternoon"
@@ -319,7 +319,7 @@
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-05-26T20:19:33.670564Z",
+      "fetched_at_utc": "2026-05-26T21:08:11.167365Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
@@ -354,7 +354,7 @@
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-05-26T20:19:37.888105Z",
+      "fetched_at_utc": "2026-05-26T21:08:15.544067Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -389,7 +389,7 @@
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-05-26T20:19:42.878651Z",
+      "fetched_at_utc": "2026-05-26T21:08:20.730030Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
