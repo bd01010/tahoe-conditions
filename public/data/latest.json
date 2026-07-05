@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-07-05T17:22:04.886569+00:00",
+  "generated_at_utc": "2026-07-05T18:40:20.987407+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-07-05T17:21:17.310857Z",
+      "fetched_at_utc": "2026-07-05T18:39:34.934486Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -32,14 +32,14 @@
         "temp_f": 72.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Mostly Cloudy then Slight Chance Rain Showers",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-07-05T17:21:19.416285Z",
+      "fetched_at_utc": "2026-07-05T18:39:37.090553Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -67,14 +67,14 @@
         "temp_f": 62.0,
         "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Mostly Cloudy then Slight Chance Rain Showers",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-07-05T17:21:22.413074Z",
+      "fetched_at_utc": "2026-07-05T18:39:40.160062Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -100,16 +100,16 @@
       },
       "weather": {
         "temp_f": 67.0,
-        "wind_mph": 6.0,
+        "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Mostly Cloudy",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-07-05T17:21:25.389598Z",
+      "fetched_at_utc": "2026-07-05T18:39:43.130803Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -135,16 +135,16 @@
       },
       "weather": {
         "temp_f": 72.0,
-        "wind_mph": 8.0,
+        "wind_mph": 9.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Partly Sunny then Slight Chance Light Rain",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-07-05T17:21:28.396074Z",
+      "fetched_at_utc": "2026-07-05T18:39:46.257270Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -153,8 +153,8 @@
       },
       "ops": {
         "open_flag": true,
-        "lifts_open": 2,
-        "lifts_scheduled": 1,
+        "lifts_open": 3,
+        "lifts_scheduled": 0,
         "lifts_total": 3,
         "trails_open": 0,
         "trails_scheduled": null,
@@ -172,14 +172,14 @@
         "temp_f": 71.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Mostly Cloudy then Slight Chance Rain Showers",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-07-05T17:21:31.394424Z",
+      "fetched_at_utc": "2026-07-05T18:39:49.128213Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -207,14 +207,14 @@
         "temp_f": 77.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Partly Sunny then Slight Chance Rain Showers",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-07-05T17:21:34.497078Z",
+      "fetched_at_utc": "2026-07-05T18:39:52.076863Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -240,16 +240,16 @@
       },
       "weather": {
         "temp_f": 65.0,
-        "wind_mph": 6.0,
+        "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Mostly Cloudy",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-07-05T17:21:37.403140Z",
+      "fetched_at_utc": "2026-07-05T18:39:55.109288Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -277,14 +277,14 @@
         "temp_f": 77.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Partly Sunny then Slight Chance Rain Showers",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-07-05T17:21:44.357853Z",
+      "fetched_at_utc": "2026-07-05T18:40:02.401106Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
@@ -312,14 +312,14 @@
         "temp_f": 70.0,
         "wind_mph": 9.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Partly Sunny then Slight Chance Light Rain",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-07-05T17:21:50.550567Z",
+      "fetched_at_utc": "2026-07-05T18:40:07.204733Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
@@ -347,14 +347,14 @@
         "temp_f": 71.0,
         "wind_mph": 8.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Partly Sunny then Slight Chance Light Rain",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-07-05T17:21:54.507556Z",
+      "fetched_at_utc": "2026-07-05T18:40:11.501958Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -382,14 +382,14 @@
         "temp_f": 74.0,
         "wind_mph": 10.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Partly Sunny then Slight Chance Rain Showers",
         "forecast_period_name": "Today"
       }
     },
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-07-05T17:21:59.421728Z",
+      "fetched_at_utc": "2026-07-05T18:40:16.532242Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
@@ -415,9 +415,9 @@
       },
       "weather": {
         "temp_f": 72.0,
-        "wind_mph": 10.0,
+        "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Slight Chance Showers And Thunderstorms",
+        "short_forecast": "Partly Sunny then Slight Chance Rain Showers",
         "forecast_period_name": "Today"
       }
     }
