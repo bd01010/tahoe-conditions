@@ -1,8 +1,8 @@
 {
   "slug": "palisades-tahoe",
   "name": "Palisades Tahoe",
-  "fetched_at_utc": "2026-10-27T16:33:44.948625Z",
-  "stale": true,
+  "fetched_at_utc": "2026-10-27T20:54:11.520300Z",
+  "stale": false,
   "sources": {
     "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
     "weather_points_url": "https://api.weather.gov/points/39.1969,-120.2358",
@@ -12,10 +12,10 @@
     "open_flag": false,
     "lifts_open": 0,
     "lifts_scheduled": null,
-    "lifts_total": 1,
-    "trails_open": null,
+    "lifts_total": 39,
+    "trails_open": 0,
     "trails_scheduled": null,
-    "trails_total": null
+    "trails_total": 296
   },
   "snow": {
     "new_snow_24h_in": null,
@@ -30,6 +30,6 @@
     "wind_mph": 10.0,
     "wind_gust_mph": null,
     "short_forecast": "Sunny",
-    "forecast_period_name": "Today"
+    "forecast_period_name": "This Afternoon"
   }
 }
