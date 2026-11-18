@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-11-18T02:18:55.871953+00:00",
+  "generated_at_utc": "2026-11-18T10:37:45.077116+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-11-18T02:18:10.978288Z",
+      "fetched_at_utc": "2026-11-18T10:37:00.042243Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -32,14 +32,14 @@
         "temp_f": 25.0,
         "wind_mph": 20.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Chance Light Snow",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Slight Chance Light Snow",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-11-18T02:18:13.091678Z",
+      "fetched_at_utc": "2026-11-18T10:37:02.352739Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -67,14 +67,14 @@
         "temp_f": 19.0,
         "wind_mph": 45.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Chance Light Snow",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Slight Chance Light Snow",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-11-18T02:18:16.118305Z",
+      "fetched_at_utc": "2026-11-18T10:37:05.452263Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -102,14 +102,14 @@
         "temp_f": 22.0,
         "wind_mph": 13.0,
         "wind_gust_mph": null,
-        "short_forecast": "Widespread Frost then Chance Light Snow",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Chance Light Snow",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-11-18T02:18:19.084751Z",
+      "fetched_at_utc": "2026-11-18T10:37:08.427076Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -126,10 +126,10 @@
         "trails_total": 105
       },
       "snow": {
-        "new_snow_24h_in": 11.0,
+        "new_snow_24h_in": 6.0,
         "new_snow_48h_in": null,
-        "base_depth_in": 0.0,
-        "season_total_in": 59.0,
+        "base_depth_in": 30.0,
+        "season_total_in": 61.0,
         "surface": null,
         "report_updated_at": null
       },
@@ -137,14 +137,14 @@
         "temp_f": 20.0,
         "wind_mph": 18.0,
         "wind_gust_mph": null,
-        "short_forecast": "Areas Of Freezing Fog then Snow Likely",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Snow Likely",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-11-18T02:18:22.106291Z",
+      "fetched_at_utc": "2026-11-18T10:37:11.429840Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -172,14 +172,14 @@
         "temp_f": 28.0,
         "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Partly Cloudy then Chance Light Snow",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Slight Chance Light Snow",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-11-18T02:18:25.117266Z",
+      "fetched_at_utc": "2026-11-18T10:37:14.448676Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -205,16 +205,16 @@
       },
       "weather": {
         "temp_f": 23.0,
-        "wind_mph": 20.0,
+        "wind_mph": 15.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Chance Light Snow",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Chance Light Snow",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-11-18T02:18:28.286783Z",
+      "fetched_at_utc": "2026-11-18T10:37:17.437553Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -242,14 +242,14 @@
         "temp_f": 19.0,
         "wind_mph": 21.0,
         "wind_gust_mph": null,
-        "short_forecast": "Widespread Frost then Chance Light Snow",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Chance Light Snow",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-11-18T02:18:31.126418Z",
+      "fetched_at_utc": "2026-11-18T10:37:20.464810Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -277,14 +277,14 @@
         "temp_f": 20.0,
         "wind_mph": 20.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Snow Likely",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Chance Snow",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-11-18T02:18:38.310531Z",
+      "fetched_at_utc": "2026-11-18T10:37:27.478946Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
@@ -312,14 +312,14 @@
         "temp_f": 21.0,
         "wind_mph": 17.0,
         "wind_gust_mph": null,
-        "short_forecast": "Areas Of Freezing Fog then Snow Likely",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Snow Likely",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-11-18T02:18:42.790644Z",
+      "fetched_at_utc": "2026-11-18T10:37:32.055830Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
@@ -347,14 +347,14 @@
         "temp_f": 21.0,
         "wind_mph": 20.0,
         "wind_gust_mph": null,
-        "short_forecast": "Areas Of Freezing Fog then Snow Likely",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Snow Likely",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-11-18T02:18:47.158707Z",
+      "fetched_at_utc": "2026-11-18T10:37:36.114416Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -380,16 +380,16 @@
       },
       "weather": {
         "temp_f": 22.0,
-        "wind_mph": 15.0,
+        "wind_mph": 10.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Snow Likely",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Chance Snow",
+        "forecast_period_name": "Overnight"
       }
     },
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-11-18T02:18:51.900323Z",
+      "fetched_at_utc": "2026-11-18T10:37:41.512899Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
@@ -417,8 +417,8 @@
         "temp_f": 23.0,
         "wind_mph": 20.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy then Snow Likely",
-        "forecast_period_name": "Tonight"
+        "short_forecast": "Chance Light Snow",
+        "forecast_period_name": "Overnight"
       }
     }
   ]
