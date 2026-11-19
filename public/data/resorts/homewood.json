@@ -1,7 +1,7 @@
 {
   "slug": "homewood",
   "name": "Homewood Mountain Resort",
-  "fetched_at_utc": "2026-11-19T09:23:14.529216Z",
+  "fetched_at_utc": "2026-11-19T18:35:15.544029Z",
   "stale": false,
   "sources": {
     "ops_url": "https://skihomewood.com/snowreport/",
@@ -15,21 +15,21 @@
     "lifts_total": 7,
     "trails_open": 0,
     "trails_scheduled": null,
-    "trails_total": 67
+    "trails_total": 65
   },
   "snow": {
     "new_snow_24h_in": null,
     "new_snow_48h_in": null,
-    "base_depth_in": 0.0,
+    "base_depth_in": 4.0,
     "season_total_in": null,
     "surface": null,
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 31.0,
+    "temp_f": 32.0,
     "wind_mph": 15.0,
     "wind_gust_mph": null,
-    "short_forecast": "Heavy Snow",
-    "forecast_period_name": "Overnight"
+    "short_forecast": "Snow",
+    "forecast_period_name": "Today"
   }
 }
