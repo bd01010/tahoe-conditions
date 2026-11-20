@@ -1,7 +1,7 @@
 {
   "slug": "mt-rose",
   "name": "Mt Rose Ski Tahoe",
-  "fetched_at_utc": "2026-11-19T18:34:31.361233Z",
+  "fetched_at_utc": "2026-11-20T01:09:31.559356Z",
   "stale": false,
   "sources": {
     "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -9,8 +9,8 @@
     "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/41,97/forecast"
   },
   "ops": {
-    "open_flag": true,
-    "lifts_open": 7,
+    "open_flag": false,
+    "lifts_open": 0,
     "lifts_scheduled": null,
     "lifts_total": 7,
     "trails_open": null,
@@ -27,9 +27,9 @@
   },
   "weather": {
     "temp_f": 26.0,
-    "wind_mph": 30.0,
+    "wind_mph": 15.0,
     "wind_gust_mph": null,
-    "short_forecast": "Snow",
-    "forecast_period_name": "Today"
+    "short_forecast": "Light Snow",
+    "forecast_period_name": "This Afternoon"
   }
 }
