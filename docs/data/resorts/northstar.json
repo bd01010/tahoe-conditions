@@ -1,7 +1,7 @@
 {
   "slug": "northstar",
   "name": "Northstar California",
-  "fetched_at_utc": "2026-11-20T09:05:23.984658Z",
+  "fetched_at_utc": "2026-11-20T17:58:22.538609Z",
   "stale": false,
   "sources": {
     "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -9,11 +9,11 @@
     "weather_forecast_url": "https://api.weather.gov/gridpoints/REV/32,97/forecast"
   },
   "ops": {
-    "open_flag": false,
-    "lifts_open": 0,
+    "open_flag": true,
+    "lifts_open": 7,
     "lifts_scheduled": 0,
     "lifts_total": 19,
-    "trails_open": 0,
+    "trails_open": 17,
     "trails_scheduled": 0,
     "trails_total": 108
   },
@@ -26,10 +26,10 @@
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 22.0,
+    "temp_f": 33.0,
     "wind_mph": 5.0,
     "wind_gust_mph": null,
-    "short_forecast": "Light Snow Likely",
-    "forecast_period_name": "Overnight"
+    "short_forecast": "Chance Light Snow",
+    "forecast_period_name": "Today"
   }
 }
