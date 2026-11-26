@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-11-26T08:49:47.596909+00:00",
+  "generated_at_utc": "2026-11-26T18:57:06.878121+00:00",
   "resorts": [
     {
       "slug": "diamond-peak",
       "name": "Diamond Peak",
-      "fetched_at_utc": "2026-11-26T08:49:02.227792Z",
+      "fetched_at_utc": "2026-11-26T18:56:25.041602Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.diamondpeak.com/mountain/conditions",
@@ -29,17 +29,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 32.0,
+        "temp_f": 49.0,
         "wind_mph": 5.0,
         "wind_gust_mph": null,
         "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "mt-rose",
       "name": "Mt Rose Ski Tahoe",
-      "fetched_at_utc": "2026-11-26T08:49:04.301328Z",
+      "fetched_at_utc": "2026-11-26T18:56:27.209393Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skirose.com/the-mountain/snow-report/",
@@ -64,17 +64,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 26.0,
-        "wind_mph": 20.0,
+        "temp_f": 40.0,
+        "wind_mph": 5.0,
         "wind_gust_mph": null,
         "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "sierra-at-tahoe",
       "name": "Sierra-at-Tahoe",
-      "fetched_at_utc": "2026-11-26T08:49:07.328153Z",
+      "fetched_at_utc": "2026-11-26T18:56:30.378796Z",
       "stale": false,
       "sources": {
         "ops_url": "https://sierraattahoe.com/weather-snow-report/",
@@ -83,10 +83,10 @@
       },
       "ops": {
         "open_flag": true,
-        "lifts_open": 4,
+        "lifts_open": 5,
         "lifts_scheduled": null,
         "lifts_total": 14,
-        "trails_open": 4,
+        "trails_open": 5,
         "trails_scheduled": null,
         "trails_total": 14
       },
@@ -99,17 +99,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 33.0,
-        "wind_mph": 1.0,
+        "temp_f": 52.0,
+        "wind_mph": 2.0,
         "wind_gust_mph": null,
-        "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Partly Sunny",
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "sugar-bowl",
       "name": "Sugar Bowl",
-      "fetched_at_utc": "2026-11-26T08:49:10.257661Z",
+      "fetched_at_utc": "2026-11-26T18:56:33.412724Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.sugarbowl.com/conditions",
@@ -118,7 +118,7 @@
       },
       "ops": {
         "open_flag": true,
-        "lifts_open": 0,
+        "lifts_open": 3,
         "lifts_scheduled": null,
         "lifts_total": 11,
         "trails_open": 21,
@@ -134,17 +134,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 29.0,
+        "temp_f": 50.0,
         "wind_mph": 3.0,
         "wind_gust_mph": null,
-        "short_forecast": "Widespread Frost",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Mostly Cloudy",
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "heavenly",
       "name": "Heavenly Mountain Resort",
-      "fetched_at_utc": "2026-11-26T08:49:13.306305Z",
+      "fetched_at_utc": "2026-11-26T18:56:36.388581Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -153,10 +153,10 @@
       },
       "ops": {
         "open_flag": true,
-        "lifts_open": 0,
-        "lifts_scheduled": 9,
+        "lifts_open": 10,
+        "lifts_scheduled": 0,
         "lifts_total": 27,
-        "trails_open": 0,
+        "trails_open": 29,
         "trails_scheduled": 0,
         "trails_total": 113
       },
@@ -169,17 +169,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 36.0,
+        "temp_f": 52.0,
         "wind_mph": 0.0,
         "wind_gust_mph": null,
         "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "northstar",
       "name": "Northstar California",
-      "fetched_at_utc": "2026-11-26T08:49:16.278637Z",
+      "fetched_at_utc": "2026-11-26T18:56:39.352509Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.northstarcalifornia.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -188,10 +188,10 @@
       },
       "ops": {
         "open_flag": true,
-        "lifts_open": 1,
+        "lifts_open": 7,
         "lifts_scheduled": 0,
         "lifts_total": 19,
-        "trails_open": 40,
+        "trails_open": 41,
         "trails_scheduled": 0,
         "trails_total": 108
       },
@@ -204,17 +204,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 31.0,
+        "temp_f": 54.0,
         "wind_mph": 0.0,
         "wind_gust_mph": null,
         "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "kirkwood",
       "name": "Kirkwood Mountain Resort",
-      "fetched_at_utc": "2026-11-26T08:49:19.331713Z",
+      "fetched_at_utc": "2026-11-26T18:56:42.354518Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.kirkwood.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -223,8 +223,8 @@
       },
       "ops": {
         "open_flag": true,
-        "lifts_open": 0,
-        "lifts_scheduled": 4,
+        "lifts_open": 4,
+        "lifts_scheduled": 0,
         "lifts_total": 4,
         "trails_open": 54,
         "trails_scheduled": 0,
@@ -239,17 +239,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 31.0,
-        "wind_mph": 5.0,
+        "temp_f": 49.0,
+        "wind_mph": 1.0,
         "wind_gust_mph": null,
         "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "palisades-tahoe",
       "name": "Palisades Tahoe",
-      "fetched_at_utc": "2026-11-26T08:49:22.316095Z",
+      "fetched_at_utc": "2026-11-26T18:56:45.323939Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.palisadestahoe.com/mountain-information/mountain-report",
@@ -274,17 +274,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 28.0,
+        "temp_f": 53.0,
         "wind_mph": 0.0,
         "wind_gust_mph": null,
         "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "boreal",
       "name": "Boreal Mountain Resort",
-      "fetched_at_utc": "2026-11-26T08:49:29.908714Z",
+      "fetched_at_utc": "2026-11-26T18:56:51.061194Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.rideboreal.com/explore/status-conditions/recent-snowfall/",
@@ -309,17 +309,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 30.0,
-        "wind_mph": 3.0,
+        "temp_f": 48.0,
+        "wind_mph": 5.0,
         "wind_gust_mph": null,
-        "short_forecast": "Widespread Frost",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Mostly Cloudy",
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "soda-springs",
       "name": "Soda Springs",
-      "fetched_at_utc": "2026-11-26T08:49:35.446309Z",
+      "fetched_at_utc": "2026-11-26T18:56:55.066364Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.skisodasprings.com/conditions/",
@@ -344,17 +344,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 30.0,
-        "wind_mph": 2.0,
+        "temp_f": 50.0,
+        "wind_mph": 3.0,
         "wind_gust_mph": null,
-        "short_forecast": "Widespread Frost",
-        "forecast_period_name": "Overnight"
+        "short_forecast": "Mostly Cloudy",
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "tahoe-donner",
       "name": "Tahoe Donner",
-      "fetched_at_utc": "2026-11-26T08:49:39.167835Z",
+      "fetched_at_utc": "2026-11-26T18:56:58.730751Z",
       "stale": false,
       "sources": {
         "ops_url": "https://www.tahoedonner.com/downhill-ski/conditions/",
@@ -379,17 +379,17 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 28.0,
+        "temp_f": 51.0,
         "wind_mph": 0.0,
         "wind_gust_mph": null,
         "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "forecast_period_name": "Thanksgiving Day"
       }
     },
     {
       "slug": "homewood",
       "name": "Homewood Mountain Resort",
-      "fetched_at_utc": "2026-11-26T08:49:44.008314Z",
+      "fetched_at_utc": "2026-11-26T18:57:03.495824Z",
       "stale": false,
       "sources": {
         "ops_url": "https://skihomewood.com/snowreport/",
@@ -414,11 +414,11 @@
         "report_updated_at": null
       },
       "weather": {
-        "temp_f": 34.0,
+        "temp_f": 49.0,
         "wind_mph": 0.0,
         "wind_gust_mph": null,
         "short_forecast": "Mostly Cloudy",
-        "forecast_period_name": "Overnight"
+        "forecast_period_name": "Thanksgiving Day"
       }
     }
   ]
