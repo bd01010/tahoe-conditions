@@ -1,7 +1,7 @@
 {
   "slug": "heavenly",
   "name": "Heavenly Mountain Resort",
-  "fetched_at_utc": "2026-11-25T05:21:36.381996Z",
+  "fetched_at_utc": "2026-11-26T00:12:16.871621Z",
   "stale": false,
   "sources": {
     "ops_url": "https://www.skiheavenly.com/the-mountain/mountain-conditions/terrain-and-lift-status.aspx",
@@ -10,10 +10,10 @@
   },
   "ops": {
     "open_flag": true,
-    "lifts_open": 1,
-    "lifts_scheduled": 5,
+    "lifts_open": 0,
+    "lifts_scheduled": 9,
     "lifts_total": 27,
-    "trails_open": 0,
+    "trails_open": 2,
     "trails_scheduled": 0,
     "trails_total": 113
   },
@@ -26,10 +26,10 @@
     "report_updated_at": null
   },
   "weather": {
-    "temp_f": 33.0,
-    "wind_mph": 5.0,
+    "temp_f": 45.0,
+    "wind_mph": 0.0,
     "wind_gust_mph": null,
-    "short_forecast": "Mostly Cloudy",
-    "forecast_period_name": "Tonight"
+    "short_forecast": "Sunny",
+    "forecast_period_name": "This Afternoon"
   }
 }
